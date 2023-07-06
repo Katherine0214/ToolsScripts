@@ -1,2 +1,2 @@
 # ToolsScripts
-处理cvs,json,xlsx格式文件小工具
+处理cvs, json, xlsx等格式文件的小工具
