@@ -10,6 +10,10 @@
 
 #### 3. Parquet2CSV: ```Parquet2CSV.py```  
 
+#### 4. TXT2CSV: ```TXT2CSV.py```  
+
+#### 5. Xls2TXT: ```Xls2TXT.py```  
+
 
 
 👾 二、读取、写入文件  
